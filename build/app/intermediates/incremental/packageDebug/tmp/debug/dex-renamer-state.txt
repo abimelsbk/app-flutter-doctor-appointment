@@ -1,0 +1,7 @@
+#Wed May 31 22:48:35 IST 2023
+base.1=A\:\\code\\flutter\\app-flutter-doctor-appointment\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=A\:\\code\\flutter\\app-flutter-doctor-appointment\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
